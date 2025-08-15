@@ -53,8 +53,6 @@ A **Convolutional Neural Network (CNN)** is trained to identify whether a leaf i
 ## 📦 Installation
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/cotton-plant-health-classification.git
-cd cotton-plant-health-classification
+git clone [https://github.com/azmeera-quresh/Cotton-Plant-Disease-Classifier.git]
+cd Cotton-Plant-Disease-Classifier
 
-# Install dependencies
-pip install -r requirements.txt
